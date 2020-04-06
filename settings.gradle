@@ -1,0 +1,2 @@
+rootProject.name='EVA2_1_CICLO_DE_VIDA'
+include ':app'
